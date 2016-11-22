@@ -1,0 +1,7 @@
+#Tue Nov 22 20:38:08 BRT 2016
+base.0=/home/geovani/Downloads/Code/CodeReviewer/InventaryApp/InventoryApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ea689b9eaf98ac6faade8905cb60563925414853
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/geovani/Downloads/Code/CodeReviewer/InventaryApp/InventoryApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_18cd876ed837a43d6d05f97b70f503035457551d/classes.dex
+base.1=/home/geovani/Downloads/Code/CodeReviewer/InventaryApp/InventoryApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_18cd876ed837a43d6d05f97b70f503035457551d
+file.0=/home/geovani/Downloads/Code/CodeReviewer/InventaryApp/InventoryApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ea689b9eaf98ac6faade8905cb60563925414853/classes.dex

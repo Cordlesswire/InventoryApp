@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/geovani/Downloads/Code/CodeReviewer/InventaryApp/InventoryApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b3818478c0801c7dedf28d024cae93bd77eb91c">
+        <dex dex="/home/geovani/Downloads/Code/CodeReviewer/InventaryApp/InventoryApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ea689b9eaf98ac6faade8905cb60563925414853/classes.dex" />
+    </item>
+
+</items>

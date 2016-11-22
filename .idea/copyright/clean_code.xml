@@ -1,0 +1,7 @@
+<component name="CopyrightManager">
+  <copyright>
+    <option name="keyword" value="cleancode" />
+    <option name="myName" value="clean_code" />
+    <option name="notice" value="Diretrizes para obtenção de Código Limpo&#10;- Antes de codificar, se colocar na posição dos outros colaboradores desenvolvedores, buscando se expressar &#10;de maneira simples;&#10;- Nomes de entidades como classes, métodos e variáveis significativos, pronunciáveis e pesquisável, que &#10;revelem a intenção;&#10;- Cada método e cada deve ter apenas uma única responsabilidade, caso contrário, deve ser refatorados em &#10;métodos unitários;&#10;- Ao comentar sobre uma entidade, deixando claro qual é o seu papel atual e sugerir melhorias futuras, se &#10;for o caso; Atualizar comentários sempre quando atualizar código;&#10;" />
+  </copyright>
+</component>
