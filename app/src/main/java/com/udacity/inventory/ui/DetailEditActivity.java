@@ -132,9 +132,7 @@ public class DetailEditActivity extends AppCompatActivity
             mQuantityText.setText(Integer.toString(quantity));
             mPriceEdit.setText(Float.toString(price));
 
-            if (setupImageOfProduct(mImageView, imagePath)) {
-                return;
-            }
+            setupImageOfProduct(mImageView, imagePath);
         }
     }
 

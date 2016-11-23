@@ -51,53 +51,40 @@
       <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/udacity/inventory/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="148">
+            <state relative-caret-position="180">
               <caret line="36" column="25" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="25" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="method#onCreate#0;class#MainActivity#0" expanded="true" />
-                <element signature="method#startDetailEditActivityOnClick#0;class#MainActivity#0" expanded="true" />
-                <element signature="e#2706#3187#0" expanded="true" />
-                <element signature="e#3186#3187#0" expanded="true" />
-                <element signature="method#setupToolbar#0;class#MainActivity#0" expanded="true" />
-                <element signature="method#showAddProductDialog#0;class#MainActivity#0" expanded="true" />
-                <element signature="method#onCreateLoader#0;class#MainActivity#0" expanded="true" />
-                <element signature="method#onLoadFinished#0;class#MainActivity#0" expanded="true" />
-                <element signature="method#onRequestPermissionsResult#0;class#MainActivity#0" expanded="true" />
-                <element signature="method#onActivityResult#0;class#MainActivity#0" expanded="true" />
-                <element signature="e#5118#5159#0" expanded="true" />
-                <element signature="e#5262#5307#0" expanded="true" />
-                <element signature="e#5612#5653#0" expanded="true" />
-                <element signature="e#5756#5801#0" expanded="true" />
+                <element signature="e#2063#2064#0" expanded="false" />
+                <element signature="e#2117#2118#0" expanded="false" />
+                <element signature="method#onItemClick#0;class#2710:3187" expanded="false" />
+                <element signature="e#3918#3919#0" expanded="false" />
+                <element signature="e#3965#3966#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DetailEditActivity.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="DetailEditActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/udacity/inventory/ui/DetailEditActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="101">
-              <caret line="250" column="52" selection-start-line="250" selection-start-column="42" selection-end-line="250" selection-end-column="52" />
+            <state relative-caret-position="378">
+              <caret line="146" column="9" selection-start-line="146" selection-start-column="9" selection-end-line="146" selection-end-column="9" />
               <folding>
                 <element signature="method#onCreate#0;class#DetailEditActivity#0" expanded="true" />
                 <element signature="method#choosePhotoOnClick#0;class#DetailEditActivity#0" expanded="true" />
                 <element signature="method#ordemFromSupplierByEmailOnClick#0;class#DetailEditActivity#0" expanded="true" />
                 <element signature="method#onCreateLoader#0;class#DetailEditActivity#0" expanded="true" />
                 <element signature="method#onLoadFinished#0;class#DetailEditActivity#0" expanded="true" />
-                <element signature="method#setupImageOfProduct#0;class#DetailEditActivity#0" expanded="true" />
                 <element signature="method#isReadStorageAllowed#0;class#DetailEditActivity#0" expanded="true" />
                 <element signature="method#requestStoragePermission#0;class#DetailEditActivity#0" expanded="true" />
                 <element signature="method#onRequestPermissionsResult#0;class#DetailEditActivity#0" expanded="true" />
                 <element signature="method#onLoaderReset#0;class#DetailEditActivity#0" expanded="true" />
                 <element signature="method#onActivityResult#0;class#DetailEditActivity#0" expanded="true" />
                 <element signature="method#createOrderSummary#0;class#DetailEditActivity#0" expanded="true" />
-                <element signature="e#8390#8417#0" expanded="true" />
                 <element signature="method#onSaveOnClick#0;class#DetailEditActivity#0" expanded="true" />
-                <element signature="e#9815#9816#0" expanded="true" />
-                <element signature="e#9861#9862#0" expanded="true" />
+                <element signature="method#saveProduct#0;class#DetailEditActivity#0" expanded="true" />
                 <element signature="method#showDeleteConfirmationDialog#0;class#DetailEditActivity#0" expanded="true" />
-                <element signature="method#onClick#0;class#10543:10668" expanded="true" />
+                <element signature="method#onClick#0;class#10571:10696" expanded="true" />
                 <element signature="method#deleteProduct#0;class#DetailEditActivity#0" expanded="true" />
                 <element signature="method#isEquals#0;class#DetailEditActivity#0" expanded="true" />
               </folding>
@@ -105,17 +92,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="activity_detail_edit.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="activity_detail_edit.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_detail_edit.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="30" column="39" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
           <provider editor-type-id="android-designer2">
             <state />
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="30" column="39" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
-              <folding>
-                <element signature="e#688#711#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="612">
+              <caret line="34" column="9" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -1973,6 +1968,7 @@
         <option value="$PROJECT_DIR$/app/src/main/java/com/udacity/inventory/MainActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/udacity/inventory/adapter/ProductCursorAdapter.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/udacity/inventory/ui/DetailEditActivity.java" />
       </list>
     </option>
@@ -2008,9 +2004,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -2269,6 +2262,9 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -2629,39 +2625,39 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="0" width="1368" height="769" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32744783" sideWeight="0.5030303" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.65971106" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905295" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32744783" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.41060606" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32744783" sideWeight="0.5030303" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.65971106" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32744783" sideWeight="0.4969697" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.752809" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2090909" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32744783" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41060606" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32744783" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -2683,17 +2679,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/item_list_cardview.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="27" column="59" selection-start-line="27" selection-start-column="59" selection-end-line="27" selection-end-column="67" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/udacity/inventory/adapter/ProductCursorAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -2721,19 +2706,16 @@
             <element signature="method#ordemFromSupplierByEmailOnClick#0;class#DetailEditActivity#0" expanded="true" />
             <element signature="method#onCreateLoader#0;class#DetailEditActivity#0" expanded="true" />
             <element signature="method#onLoadFinished#0;class#DetailEditActivity#0" expanded="true" />
-            <element signature="method#setupImageOfProduct#0;class#DetailEditActivity#0" expanded="true" />
             <element signature="method#isReadStorageAllowed#0;class#DetailEditActivity#0" expanded="true" />
             <element signature="method#requestStoragePermission#0;class#DetailEditActivity#0" expanded="true" />
             <element signature="method#onRequestPermissionsResult#0;class#DetailEditActivity#0" expanded="true" />
             <element signature="method#onLoaderReset#0;class#DetailEditActivity#0" expanded="true" />
             <element signature="method#onActivityResult#0;class#DetailEditActivity#0" expanded="true" />
             <element signature="method#createOrderSummary#0;class#DetailEditActivity#0" expanded="true" />
-            <element signature="e#8390#8417#0" expanded="true" />
             <element signature="method#onSaveOnClick#0;class#DetailEditActivity#0" expanded="true" />
-            <element signature="e#9815#9816#0" expanded="true" />
-            <element signature="e#9861#9862#0" expanded="true" />
+            <element signature="method#saveProduct#0;class#DetailEditActivity#0" expanded="true" />
             <element signature="method#showDeleteConfirmationDialog#0;class#DetailEditActivity#0" expanded="true" />
-            <element signature="method#onClick#0;class#10543:10668" expanded="true" />
+            <element signature="method#onClick#0;class#10571:10696" expanded="true" />
             <element signature="method#deleteProduct#0;class#DetailEditActivity#0" expanded="true" />
             <element signature="method#isEquals#0;class#DetailEditActivity#0" expanded="true" />
           </folding>
@@ -2741,13 +2723,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1116">
           <caret line="62" column="23" selection-start-line="62" selection-start-column="23" selection-end-line="62" selection-end-column="23" />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/udacity/inventory/MainActivity.java">
@@ -2755,42 +2737,27 @@
         <state relative-caret-position="558">
           <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#onCreate#0;class#MainActivity#0" expanded="true" />
-            <element signature="method#startDetailEditActivityOnClick#0;class#MainActivity#0" expanded="true" />
-            <element signature="e#2706#3187#0" expanded="true" />
-            <element signature="e#3186#3187#0" expanded="true" />
-            <element signature="method#setupToolbar#0;class#MainActivity#0" expanded="true" />
-            <element signature="method#showAddProductDialog#0;class#MainActivity#0" expanded="true" />
-            <element signature="method#onCreateLoader#0;class#MainActivity#0" expanded="true" />
-            <element signature="method#onLoadFinished#0;class#MainActivity#0" expanded="true" />
-            <element signature="method#onRequestPermissionsResult#0;class#MainActivity#0" expanded="true" />
-            <element signature="method#onActivityResult#0;class#MainActivity#0" expanded="true" />
-            <element signature="e#5118#5159#0" expanded="true" />
-            <element signature="e#5262#5307#0" expanded="true" />
-            <element signature="e#5612#5653#0" expanded="true" />
-            <element signature="e#5756#5801#0" expanded="true" />
+            <element signature="e#2063#2064#0" expanded="false" />
+            <element signature="e#2117#2118#0" expanded="false" />
+            <element signature="method#onItemClick#0;class#2710:3187" expanded="false" />
+            <element signature="e#3918#3919#0" expanded="false" />
+            <element signature="e#3965#3966#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_detail_edit.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1044">
           <caret line="58" column="14" selection-start-line="58" selection-start-column="14" selection-end-line="58" selection-end-column="14" />
-          <folding>
-            <element signature="e#536#1647#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/dialog_add_product.xml">
       <provider editor-type-id="android-designer2">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/dialog_add_product.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -2802,15 +2769,18 @@
           </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
       <provider editor-type-id="android-designer2">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
@@ -2821,13 +2791,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/udacity/inventory/data/ProductContract.java">
@@ -2863,21 +2833,11 @@
         <state relative-caret-position="306">
           <caret line="61" column="71" selection-start-line="61" selection-start-column="71" selection-end-line="61" selection-end-column="71" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#onCreate#0;class#MainActivity#0" expanded="true" />
-            <element signature="method#startDetailEditActivityOnClick#0;class#MainActivity#0" expanded="true" />
-            <element signature="e#2706#3187#0" expanded="true" />
-            <element signature="e#3186#3187#0" expanded="true" />
-            <element signature="method#setupToolbar#0;class#MainActivity#0" expanded="true" />
-            <element signature="method#showAddProductDialog#0;class#MainActivity#0" expanded="true" />
-            <element signature="method#onCreateLoader#0;class#MainActivity#0" expanded="true" />
-            <element signature="method#onLoadFinished#0;class#MainActivity#0" expanded="true" />
-            <element signature="method#onRequestPermissionsResult#0;class#MainActivity#0" expanded="true" />
-            <element signature="method#onActivityResult#0;class#MainActivity#0" expanded="true" />
-            <element signature="e#5118#5159#0" expanded="true" />
-            <element signature="e#5262#5307#0" expanded="true" />
-            <element signature="e#5612#5653#0" expanded="true" />
-            <element signature="e#5756#5801#0" expanded="true" />
+            <element signature="e#2063#2064#0" expanded="false" />
+            <element signature="e#2117#2118#0" expanded="false" />
+            <element signature="method#onItemClick#0;class#2710:3187" expanded="false" />
+            <element signature="e#3918#3919#0" expanded="false" />
+            <element signature="e#3965#3966#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -2890,26 +2850,24 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_detail_edit.xml">
       <provider editor-type-id="android-designer2">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_detail_edit.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#536#1647#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/com/udacity/inventory/ExampleInstrumentedTest.java">
@@ -3016,17 +2974,14 @@
         <state relative-caret-position="310">
           <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
           <folding>
-            <element signature="method#onCreateDialog#0;class#AddDialogFragment#0" expanded="true" />
-            <element signature="e#1444#1643#0" expanded="true" />
-            <element signature="e#1642#1643#0" expanded="true" />
+            <element signature="method#onCreateDialog#0;class#AddDialogFragment#0" expanded="false" />
+            <element signature="e#1444#1643#0" expanded="false" />
+            <element signature="e#1642#1643#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="303">
           <caret line="65" column="39" selection-start-line="65" selection-start-column="39" selection-end-line="65" selection-end-column="39" />
@@ -3036,11 +2991,11 @@
           </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/dialog_add_product.xml">
       <provider editor-type-id="android-designer2">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/dialog_add_product.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="279">
           <caret line="45" column="34" selection-start-line="45" selection-start-column="34" selection-end-line="45" selection-end-column="34" />
@@ -3052,11 +3007,11 @@
           </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/include_content_edit.xml">
       <provider editor-type-id="android-designer2">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/include_content_edit.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="111">
           <caret line="57" column="26" selection-start-line="57" selection-start-column="26" selection-end-line="57" selection-end-column="26" />
@@ -3064,6 +3019,9 @@
             <element signature="e#1618#1647#0" expanded="false" />
           </folding>
         </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/include_content_edit.xml">
@@ -3100,23 +3058,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/udacity/inventory/util/PermissionUtils.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/udacity/inventory/util/PermissionUtils.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/item_list_cardview.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/item_list_cardview.xml">
       <provider editor-type-id="android-designer2">
         <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/build.gradle">
@@ -3132,35 +3083,6 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/udacity/inventory/ui/DetailEditActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="101">
-          <caret line="250" column="52" selection-start-line="250" selection-start-column="42" selection-end-line="250" selection-end-column="52" />
-          <folding>
-            <element signature="method#onCreate#0;class#DetailEditActivity#0" expanded="true" />
-            <element signature="method#choosePhotoOnClick#0;class#DetailEditActivity#0" expanded="true" />
-            <element signature="method#ordemFromSupplierByEmailOnClick#0;class#DetailEditActivity#0" expanded="true" />
-            <element signature="method#onCreateLoader#0;class#DetailEditActivity#0" expanded="true" />
-            <element signature="method#onLoadFinished#0;class#DetailEditActivity#0" expanded="true" />
-            <element signature="method#setupImageOfProduct#0;class#DetailEditActivity#0" expanded="true" />
-            <element signature="method#isReadStorageAllowed#0;class#DetailEditActivity#0" expanded="true" />
-            <element signature="method#requestStoragePermission#0;class#DetailEditActivity#0" expanded="true" />
-            <element signature="method#onRequestPermissionsResult#0;class#DetailEditActivity#0" expanded="true" />
-            <element signature="method#onLoaderReset#0;class#DetailEditActivity#0" expanded="true" />
-            <element signature="method#onActivityResult#0;class#DetailEditActivity#0" expanded="true" />
-            <element signature="method#createOrderSummary#0;class#DetailEditActivity#0" expanded="true" />
-            <element signature="e#8390#8417#0" expanded="true" />
-            <element signature="method#onSaveOnClick#0;class#DetailEditActivity#0" expanded="true" />
-            <element signature="e#9815#9816#0" expanded="true" />
-            <element signature="e#9861#9862#0" expanded="true" />
-            <element signature="method#showDeleteConfirmationDialog#0;class#DetailEditActivity#0" expanded="true" />
-            <element signature="method#onClick#0;class#10543:10668" expanded="true" />
-            <element signature="method#deleteProduct#0;class#DetailEditActivity#0" expanded="true" />
-            <element signature="method#isEquals#0;class#DetailEditActivity#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -3183,37 +3105,59 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/udacity/inventory/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
+        <state relative-caret-position="180">
           <caret line="36" column="25" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="25" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#onCreate#0;class#MainActivity#0" expanded="true" />
-            <element signature="method#startDetailEditActivityOnClick#0;class#MainActivity#0" expanded="true" />
-            <element signature="e#2706#3187#0" expanded="true" />
-            <element signature="e#3186#3187#0" expanded="true" />
-            <element signature="method#setupToolbar#0;class#MainActivity#0" expanded="true" />
-            <element signature="method#showAddProductDialog#0;class#MainActivity#0" expanded="true" />
-            <element signature="method#onCreateLoader#0;class#MainActivity#0" expanded="true" />
-            <element signature="method#onLoadFinished#0;class#MainActivity#0" expanded="true" />
-            <element signature="method#onRequestPermissionsResult#0;class#MainActivity#0" expanded="true" />
-            <element signature="method#onActivityResult#0;class#MainActivity#0" expanded="true" />
-            <element signature="e#5118#5159#0" expanded="true" />
-            <element signature="e#5262#5307#0" expanded="true" />
-            <element signature="e#5612#5653#0" expanded="true" />
-            <element signature="e#5756#5801#0" expanded="true" />
+            <element signature="e#2063#2064#0" expanded="false" />
+            <element signature="e#2117#2118#0" expanded="false" />
+            <element signature="method#onItemClick#0;class#2710:3187" expanded="false" />
+            <element signature="e#3918#3919#0" expanded="false" />
+            <element signature="e#3965#3966#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="34" column="9" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_detail_edit.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="30" column="39" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
       <provider editor-type-id="android-designer2">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/udacity/inventory/ui/DetailEditActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="30" column="39" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
+        <state relative-caret-position="378">
+          <caret line="146" column="9" selection-start-line="146" selection-start-column="9" selection-end-line="146" selection-end-column="9" />
           <folding>
-            <element signature="e#688#711#0" expanded="true" />
+            <element signature="method#onCreate#0;class#DetailEditActivity#0" expanded="true" />
+            <element signature="method#choosePhotoOnClick#0;class#DetailEditActivity#0" expanded="true" />
+            <element signature="method#ordemFromSupplierByEmailOnClick#0;class#DetailEditActivity#0" expanded="true" />
+            <element signature="method#onCreateLoader#0;class#DetailEditActivity#0" expanded="true" />
+            <element signature="method#onLoadFinished#0;class#DetailEditActivity#0" expanded="true" />
+            <element signature="method#isReadStorageAllowed#0;class#DetailEditActivity#0" expanded="true" />
+            <element signature="method#requestStoragePermission#0;class#DetailEditActivity#0" expanded="true" />
+            <element signature="method#onRequestPermissionsResult#0;class#DetailEditActivity#0" expanded="true" />
+            <element signature="method#onLoaderReset#0;class#DetailEditActivity#0" expanded="true" />
+            <element signature="method#onActivityResult#0;class#DetailEditActivity#0" expanded="true" />
+            <element signature="method#createOrderSummary#0;class#DetailEditActivity#0" expanded="true" />
+            <element signature="method#onSaveOnClick#0;class#DetailEditActivity#0" expanded="true" />
+            <element signature="method#saveProduct#0;class#DetailEditActivity#0" expanded="true" />
+            <element signature="method#showDeleteConfirmationDialog#0;class#DetailEditActivity#0" expanded="true" />
+            <element signature="method#onClick#0;class#10571:10696" expanded="true" />
+            <element signature="method#deleteProduct#0;class#DetailEditActivity#0" expanded="true" />
+            <element signature="method#isEquals#0;class#DetailEditActivity#0" expanded="true" />
           </folding>
         </state>
       </provider>
